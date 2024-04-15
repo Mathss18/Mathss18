@@ -1,6 +1,6 @@
-### Olá, eu sou Matheus Filho!
+### Hello, I am Matheus Filho!
 
-- 🔭 Atualmente trabalho como full stack
+- 🔭 Currently working as a Full Stack Developer
 
 <div align="center">
   <a href="https://github.com/Mathss18">
